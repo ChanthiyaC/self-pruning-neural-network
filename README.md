@@ -22,3 +22,6 @@ This pushes many gate values toward zero, effectively pruning weights.
 
 Higher lambda → more sparsity but lower accuracy.  
 Lower lambda → less sparsity but better accuracy.
+## Output Graph
+
+![Result](results.png)
